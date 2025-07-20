@@ -17,7 +17,7 @@
 Follows a modular and scalable structure based on Clean Architecture principles:
 
 ```
-lib/
+lib/src
 ├── core/ # Themes, styles, helpers
 ├── data/ # Models, repositories
 ├── logic/ # Cubits for state (API, tastes)
@@ -29,8 +29,8 @@ lib/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your_username/gustomaster.git
-cd gustomaster
+git clone https://github.com/WGPQ/taste-master.git
+cd taste-master
 ```
 
 2. **Install dependencies**
