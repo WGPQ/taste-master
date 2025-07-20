@@ -48,7 +48,7 @@ flutter run
 Includes unit and widget tests:
 
 - ✅ **Cubit Tests**: for `ApiCubit` and `PreferenceCubit`.
-- ✅ **Widget Tests**: taste creation, loading list from API.
+- ✅ **Widget Tests**: taste widget add form taste, bottom navigation bar .
 
 To run tests:
 
@@ -76,8 +76,13 @@ Named routes are used for easy navigation:
 - **Clean architecture** following SOLID principles.
 
 ## 📸 Screenshots
-![Screenshot](assets/screenshots/home_page.png)
 ![Screenshot](assets/screenshots/splash_screen.png)
+![Screenshot](assets/screenshots/home_page.png)
+![Screenshot](assets/screenshots/dog_details.png)
+![Screenshot](assets/screenshots/taste_page.png)
+![Screenshot](assets/screenshots/add_taste.png)
+![Screenshot](assets/screenshots/taste_details.png)
+![Screenshot](assets/screenshots/about_page.png)
 
 
 
