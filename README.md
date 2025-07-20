@@ -76,13 +76,13 @@ Named routes are used for easy navigation:
 - **Clean architecture** following SOLID principles.
 
 ## 📸 Screenshots
-![Screenshot](assets/screenshots/splash_screen.png)
-![Screenshot](assets/screenshots/home_page.png)
-![Screenshot](assets/screenshots/dog_details.png)
-![Screenshot](assets/screenshots/taste_page.png)
-![Screenshot](assets/screenshots/add_taste.png)
-![Screenshot](assets/screenshots/taste_details.png)
-![Screenshot](assets/screenshots/about_page.png)
+![Splash Screen](assets/screenshots/splash_screen.png)
+![Home Page](assets/screenshots/home_page.png)
+![Dog Details](assets/screenshots/dog_details.png)
+![Taste Page](assets/screenshots/taste_page.png)
+![Add Taste](assets/screenshots/add_taste.png)
+![Taste Details](assets/screenshots/taste_details.png)
+![About Page](assets/screenshots/about_page.png)
 
 
 
