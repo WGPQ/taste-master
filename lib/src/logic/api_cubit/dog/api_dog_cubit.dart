@@ -63,6 +63,13 @@ class ApiDogCubit extends Cubit<ApiDogState> {
       isLoading: true,
     ));
     final searchTerm = query.toLowerCase();
+    if (searchTerm.isEmpty) {
+      emit(state.copyWith(
+        isLoading: false,
+        filterResults: state.dogList ?? [],
+      ));
+      return;
+    }
     try {
       await _repository.searchDogs(query, (data) {
         final filterResult = data.where((dog) {
